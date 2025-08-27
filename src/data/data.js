@@ -1,0 +1,1 @@
+export const API_KEY="https://6874ce63dd06792b9c954fc7.mockapi.io/api/v1/users";
