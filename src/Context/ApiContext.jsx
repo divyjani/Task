@@ -9,9 +9,7 @@ export const ApiProvider = ({children}) => {
 
 const[data,setData]=useState([])
 
-// useEffect(()=>{
-//     getData();
-// },[]);
+
 
 
 const getData = async() =>{
